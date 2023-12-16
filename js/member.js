@@ -38,5 +38,7 @@ var member=[
 {"phone":"No.37","name":"阿稻"},
 {"phone":"No.38","name":"二兵"},
 {"phone":"No.39","name":"亮亮"},
-{"phone":"No.40","name":"超哥"}
+{"phone":"No.40","name":"超哥"},
+{"phone":"No.41","name":"Candy"},
+{"phone":"No.42","name":"米辣"}
 ]
